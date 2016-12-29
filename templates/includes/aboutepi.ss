@@ -1,0 +1,3 @@
+<div>
+	<p><strong>About Electronic Payments</strong><br>With "Innovation through every transaction<sup>&trade;</sup>", Electronic Payments has distinguished itself as one of the fastest growing and highly regarded privately held payment and transaction processing companies in the United States. Electronic Payments currently serves businesses in all industry types and acquires new businesses through a network of agent banks, sales agents and independent sales offices (ISOs). Visit www.electronicpayments.com for additional information or visit <a href="http://www.bankcardprogram.com" target="new">www.bankcardprogram.com</a> to learn more about our ISO and MLS programs.<p>
+</div>

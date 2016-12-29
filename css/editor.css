@@ -1,0 +1,64 @@
+@import url(main.css);
+
+
+
+body {
+
+    font-family: 'Roboto', sans-serif;
+
+	font-weight:300;
+
+	font-size:16px;
+
+}
+
+
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+
+    font-weight: inherit
+
+}
+
+
+
+h1, h2 {
+
+    margin: 10px 0 25px
+
+}
+
+
+
+blockquote{
+
+    line-height: 24px;
+
+	font-style: italic;
+
+}
+
+
+
+h1, h2, h3, h4, h5, h6 {
+
+    color: #484747
+
+}
+
+
+
+p {
+
+    color: #a3a2a2;
+
+}
+
+
+
+a {
+
+    text-decoration: none;
+	color: #005581;
+
+}

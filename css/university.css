@@ -1,0 +1,100 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,500,100,100italic,300italic,400italic,500italic,700,700italic,900,900italic|Roboto+Condensed:400,300,300italic,400italic,700,700italic);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,500,100,100italic,300italic,400italic,500italic,700,700italic,900,900italic|Roboto+Condensed:400,300,300italic,400italic,700,700italic);
+@import url(university/entypo.css);
+@import url(university/bootstrap.min.css);
+@import url(university/font-awesome.min.css);
+@import url(university/integral-core.css);
+@import url(university/custom-font-styles.css);
+@import url(university/plugins/scrollbar/css/perfect-scrollbar.css);
+
+footer {
+    font-family: Roboto, sans-serif;
+	color: white;
+	font-weight: 300;
+	font-size: 14px;
+    line-height: 16px!important;
+    padding-top: 40px;
+    background-color: #005682;
+}
+
+footer a{
+	color: white;
+}
+
+footer h4{
+	color: white;
+	margin-bottom: 20px;
+	font-size: 18px;
+	font-weight: 500;
+}
+
+footer .footer-divider {
+    display: block;
+    height: 1px;
+    width: 100%;
+    margin: 10px 0;
+    background-color: #014560;
+}
+
+.footer-news-item h4 {
+    font-size: 14px;
+    margin: 0;
+}
+
+.footer-news-item span {
+    margin-bottom: 10px;
+    font-size: 12px;
+    color: #9CF;
+    font-style: italic;
+}
+
+.footer-news-item {
+    margin-bottom: 15px;
+}
+
+.footer-bottom {
+    background-color: #014560;
+    margin-top: 60px;
+    padding: 12px 0 8px;
+    color: #fff;
+}
+
+.footer-news-item .news-item-content {
+    width: 80%;
+    float: left;
+}
+
+.footer-bottom p, .footer-bottom ul li a {
+    color: #fff;
+    font-size: 10px;
+    line-height: 12px;
+}
+footer .signup-note {
+    display: block;
+    font-size: 12px;
+    color: #9CF;
+    font-style: italic;
+}
+
+.footer-news-item img {
+    width: 20%;
+    float: left;
+}
+
+.footer-news-item .news-item-content {
+    width: 80%;
+    float: left;
+    padding-left: 10px;
+}
+
+footer .flickr li img {
+    display: block;
+}
+
+footer .flickr li {
+    list-style: none;
+    float: left;
+    border: 3px solid #9CF;
+    margin: 2px;
+    opacity: .8;
+}

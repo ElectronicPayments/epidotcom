@@ -1,0 +1,28 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,500,100,100italic,300italic,400italic,500italic,700,700italic,900,900italic|Roboto+Condensed:400,300,300italic,400italic,700,700italic);
+@import url(bootstrap.min.css);
+@import url(shortcodes.min.css);
+
+
+body {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: none;
+}
+
+h1{
+	font-family:Roboto;
+	font-weight:900;
+	font-size:4em;
+	margin-bottom:30px;
+}
+
+p{
+	font-family:Roboto Condensed;
+	font-weight:300;
+	font-size:1.5em;
+	margin-bottom:0px;
+}
+
+.space-top{
+	padding-top:30px;
+}
