@@ -2,7 +2,7 @@
 	<% include BlogHeader %>
 <% else_if Parent.URLSegment = newsfeed %>
 	<% include BlogHeader %>
-<% else_if URLSegment = menubuild %>
+<% else_if URLSegment = menu || URLSegment = inventory %>
 	<% include MenuHeader %>
 <% else %>
 	<% include Header %>

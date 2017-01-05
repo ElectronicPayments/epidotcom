@@ -1,4 +1,4 @@
-<% if URLSegment == menubuild %>
+<% if URLSegment == menu || URLSegment == inventory %>
 <div class="container" data-animation-delay="300" data-animation="fadeIn">
 	<div class="row section-space">
 		<div class="col-xs-12">

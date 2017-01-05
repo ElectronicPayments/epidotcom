@@ -27,7 +27,7 @@
 
 <body style="text-align:center">
 
-<iframe src="http://docs.google.com/gview?url=https://electronicpayments.com/assets/prg/merchant-services-program-guide-color.pdf&embedded=true" style="width:100%; height:950px;" frameborder="0"></iframe>
+<iframe src="https://docs.google.com/viewer?srcid=0B-SazoeHNcVgQVdtOUxCcG13U2s&pid=explorer&efh=false&a=v&chrome=false&embedded=true" width="625px" height="800px"></iframe>
 
 </body>
 

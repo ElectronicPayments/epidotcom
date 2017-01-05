@@ -33,7 +33,7 @@
 			<div class="row">
 				<div class="col-sm-12">
 					<div class="header-top-item">
-						<span class="topitem"><i class="icon-phone"></i> (800) 966-5520</span><span><i class="icon-envelope"></i> <a href="mailto:support@electronicpayments.com">support@electronicpayments.com</a></span>
+						<span class="topitem"><i class="icon-phone"></i> (800) 966-5520</span><span><i class="icon-login"></i> <a href="https://www.merchantsupportcenter.com/back_to_login.php" target="new">Login to your Merchant Account</a></span>
 					</div>
 
 					
